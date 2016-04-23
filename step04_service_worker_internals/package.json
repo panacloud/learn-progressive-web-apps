@@ -1,0 +1,15 @@
+{
+  "name": "step03_service_worker",
+  "version": "1.0.0",
+  "description": "Read:",
+  "main": "service-worker.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.2.0"
+  }
+}
